@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![snake gif](https://github.com/AjdinHalac/AjdinHalac/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 **AjdinHalac/AjdinHalac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
