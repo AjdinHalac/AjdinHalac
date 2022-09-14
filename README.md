@@ -1,7 +1,8 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=AjdinHalac)
 ![GitHub Snake Light](https://github.com/AjdinHalac/AjdinHalac/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/AjdinHalac/AjdinHalac/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+![](https://komarev.com/ghpvc/?username=AjdinHalac)
 
 <!--
 **AjdinHalac/AjdinHalac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
