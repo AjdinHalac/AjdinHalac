@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=AjdinHalac)
 ![GitHub Snake Light](https://github.com/AjdinHalac/AjdinHalac/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/AjdinHalac/AjdinHalac/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
