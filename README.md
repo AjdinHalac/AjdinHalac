@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-I am a product-focused Software Developer. I'm looking for constant improvement by amusing myself with anything related to code which means I can contribute to Frontend and DevOps but my specialization, previous experiences, and core focus lies in **Backene Development**, **Microservices**, and **Domain Driven Design**. On weekends I obsess with Optimization and Software Architecture.
+I am a product-focused Software Developer. I'm looking for constant improvement by amusing myself with anything related to code which means I can contribute to Frontend and DevOps but my specialization, previous experiences, and core focus lies in **Backend Development**, **Microservices**, and **Domain Driven Design**. On weekends I obsess with Optimization and Software Architecture.
 My previous domains include __Gambling__, __AI__, __Biotech__, __Identity__, and __Marketplace__, however, I'm open to exploring other options.
 I'm currently working with GoLang and Java.
 My hobbies include creating Robots using Arduino and Raspberry.
