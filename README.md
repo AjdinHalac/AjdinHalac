@@ -6,12 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a product-focused Software Developer. I'm looking for constant improvement by amusing myself with anything related to code which means \ 
-I can contribute to Frontend and DevOps but my specialization, previous experiences, and core focus lies in Backend Development, Software Architecture, Microservices, and Domain Driven Design. 
-My previous domains include Gambling, AI, Biotech, Identity, and Marketplace, however, I'm open to exploring other options.
+I am a product-focused Software Developer. I'm looking for constant improvement by amusing myself with anything related to code which means I can contribute to Frontend and DevOps but my specialization, previous experiences, and core focus lies in **Backene Development**, **Microservices**, and **Domain Driven Design**. On weekends I obsess with Optimization and Software Architecture.
+My previous domains include __Gambling__, __AI__, __Biotech__, __Identity__, and __Marketplace__, however, I'm open to exploring other options.
 I'm currently working with GoLang and Java.
 My hobbies include creating Robots using Arduino and Raspberry.
 
+<br>
 
 ✉️ &nbsp;Is there something I can help you with? You can contact me at ajdin.halac@hotmail.com!
 
@@ -20,13 +20,13 @@ My hobbies include creating Robots using Arduino and Raspberry.
 
 <p align="left">
 <a href="https://github.com/AjdinHalac">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AjdinHalac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AjdinHalac&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
 <p align="left">
 <a href="https://github.com/AjdinHalac">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AjdinHalac&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AjdinHalac&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
 
