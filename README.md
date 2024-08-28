@@ -36,7 +36,7 @@ Robots using Arduino and Raspberry.
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=-1)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=-1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AjdinHalac&theme=dracula&column=-1)](https://github-profile-trophy.vercel.app/?username=AjdinHalac&theme=dracula&column=-1)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
