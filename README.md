@@ -12,8 +12,8 @@ to Frontend and DevOps but with specialization, previous
 experiences, and core focus on Backend Development,
 Microservices, and Domain Driven Design. Continuously
 exploring Optimization and Software Architecture. Previous
-domains include Gambling, AI, Biotech, Identity, and
-Marketplace, but open to exploring other options. Currently
+domains include Gambling, AI, Biotech, Identity, Marketplace, and Asset Management, 
+but open to exploring other options. Currently
 working with GoLang and Java. Hobbies include creating
 Robots using Arduino and Raspberry.
 
