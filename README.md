@@ -35,10 +35,6 @@ Robots using Arduino and Raspberry.
 </a>
 </p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AjdinHalac&theme=dracula&column=-1)](https://github-profile-trophy.vercel.app/?username=AjdinHalac&theme=dracula&column=-1)
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
