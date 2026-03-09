@@ -38,7 +38,7 @@ Robots using Arduino and Raspberry.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ajdin-hala%C4%87-019549121/" target="_blank">
+<a href="https://www.linkedin.com/in/ajdin-halac/" target="_blank">
   <img align="left" alt="Ajdin Halac | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </a>
 </p>
