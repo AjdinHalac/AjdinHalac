@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Ajdin Halac - Software Engineer and Product Builder">
+  <style>
+    .mono { font-family: 'Share Tech Mono', 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace; }
+    .name { font-size: 54px; font-weight: 700; letter-spacing: 6px; fill: #e6fdff; }
+    .g1 { fill: #00f0ff; opacity: .8; animation: g1 3.2s infinite steps(1); }
+    .g2 { fill: #ff2079; opacity: .8; animation: g2 3.2s infinite steps(1); }
+    .scan { animation: scan 4s linear infinite; }
+    .blink { animation: blink 1s steps(1) infinite; }
+    .dim { fill: #5c6b73; font-size: 13px; }
+    .tag { fill: #00f0ff; font-size: 17px; letter-spacing: 2px; }
+    @keyframes g1 { 0%,86%,100% { transform: translate(0,0); } 88% { transform: translate(-4px,1px); } 91% { transform: translate(3px,-2px); } 94% { transform: translate(-2px,0); } }
+    @keyframes g2 { 0%,86%,100% { transform: translate(0,0); } 88% { transform: translate(4px,-1px); } 91% { transform: translate(-3px,2px); } 94% { transform: translate(2px,0); } }
+    @keyframes scan { from { transform: translateY(-20px); } to { transform: translateY(220px); } }
+    @keyframes blink { 0%,50% { opacity: 1; } 51%,100% { opacity: 0; } }
+  </style>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#00f0ff" stroke-opacity=".06"/>
+    </pattern>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00f0ff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#00f0ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" rx="6" fill="#050507"/>
+  <rect width="900" height="200" rx="6" fill="url(#grid)"/>
+  <rect class="scan" x="0" y="0" width="900" height="20" fill="url(#beam)"/>
+
+  <!-- corner brackets -->
+  <g stroke="#ff2079" stroke-width="2" fill="none">
+    <path d="M14 34V14H34"/><path d="M866 14H886V34"/>
+    <path d="M14 166V186H34"/><path d="M886 166V186H866"/>
+  </g>
+
+  <text class="mono dim" x="40" y="42">ctOS://profile/ajdin-halac  ::  ACCESS GRANTED</text>
+  <text class="mono dim" x="860" y="42" text-anchor="end">NODE: SARAJEVO_BA</text>
+
+  <g class="mono name">
+    <text class="g1" x="40" y="112">AJDIN HALAC</text>
+    <text class="g2" x="40" y="112">AJDIN HALAC</text>
+    <text x="40" y="112">AJDIN HALAC</text>
+  </g>
+
+  <text class="mono tag" x="42" y="148">&gt; PLATFORM &amp; SOFTWARE ENGINEER<tspan class="blink" fill="#ff2079"> _</tspan></text>
+
+  <text class="mono dim" x="42" y="176">GO · JAVA · TYPESCRIPT · NEXT.JS · KUBERNETES</text>
+  <text class="mono" x="860" y="176" text-anchor="end" font-size="13" fill="#a6ff00">● ONLINE</text>
+</svg>
